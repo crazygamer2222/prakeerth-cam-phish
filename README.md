@@ -1,4 +1,4 @@
----USAGE---
+---USSAGE---
 
 git clone https://github.com/crazygamer2222/prakeerth-cam-phish.git
 
