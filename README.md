@@ -1,6 +1,6 @@
 ---USAGE---
 
-git clone git clone https://github.com/prakeerth-cam-phish.git
+git clone git clone https://github.com/crazygamer2222/prakeerth-cam-phish.git
 
 cd prakeerth-cam-phish
 
